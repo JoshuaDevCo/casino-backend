@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^(.*)$ http://127.0.0.1:10040/$1 [P]

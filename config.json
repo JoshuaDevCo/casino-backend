@@ -1,0 +1,6 @@
+{
+    "DBNAME": "ibluday-casino",
+    "PORT" : "10040",
+    "DBURL" : "mongodb://localhost:27017/",
+    "TOKEN_SECRET" : "ibluday-casino" 
+}
